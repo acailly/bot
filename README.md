@@ -74,5 +74,5 @@ Tapez `say hello` pour que le bot réponde `hello`
 
 Les commandes disponibles sont :
 
-- `say` : fait dire quelque chose au bot (https://bitbucket.org/acailly/command-say)
+- `say` : fait dire quelque chose au bot (https://github.com/acailly/bot-say)
 
