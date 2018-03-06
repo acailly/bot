@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": ["bot", "commands/*"],
+  "scripts": {
+    "start": "node ./bot/scripts/start.js",
+    "build": "node ./bot/scripts/build.js"
+  }
+}
