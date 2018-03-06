@@ -75,4 +75,8 @@ Tapez `say hello` pour que le bot réponde `hello`
 Les commandes disponibles sont :
 
 - `say` : fait dire quelque chose au bot (https://github.com/acailly/bot-say)
+- `epguides` : récupère les infos des séries TV (https://github.com/acailly/bot-epguides)
+- `github-trends` : liste les projets tendance sur github (https://github.com/acailly/bot-github-trends)
+- `remove-proxy` : supprime le proxy ! (https://github.com/acailly/bot-remove-proxy)
+
 
