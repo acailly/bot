@@ -30,7 +30,11 @@ Once the bot started, type `help` to show available commands.
 
 For the moment no command is available.
 
-## Add a command
+## Add a command - easy way
+
+Run the bot and type the command `add https://insert_the_command_repo_url`
+
+## Add a command - normal way
 
 Create the folder `commands`
 
