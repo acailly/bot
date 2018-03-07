@@ -70,5 +70,7 @@ Available commands are:
 * `remove-proxy` : Remove the proxy! (https://github.com/acailly/bot-remove-proxy)
 * `schedule` : Schedule commands (https://github.com/acailly/bot-schedule)
 * `slack-links` : Retrieve links posted on slack in the channel you are in (https://github.com/acailly/bot-slack-links)
+* `bitbucket` : List open pull requests on BitBucket (https://github.com/acailly/bot-bitbucket)
+* `jenkins` : Monitor Jenkins jobs (https://github.com/acailly/bot-jenkins)
 
 If you create some interesting commands, tell me or make a PR ;-)
