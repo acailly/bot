@@ -52,3 +52,6 @@ pkg-cache
 
 # Commands
 commands*
+
+# Config
+config.yaml

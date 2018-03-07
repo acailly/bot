@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "chalk": "^2.3.1",
+    "cosmiconfig": "^4.0.0",
     "cross-env": "5.0.5",
     "node-resourcehacker": "^1.2.1",
     "pkg": "^4.3.0",

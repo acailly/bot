@@ -1,7 +1,10 @@
 const vorpal = require("vorpal")();
 const chalk = vorpal.chalk;
 const repl = require("vorpal-repl");
+const loadConfig = require("./loadConfig");
 const listAvailableCommands = require("./listAvailableCommands");
+
+vorpal.config = loadConfig();
 
 vorpal.use(repl);
 
