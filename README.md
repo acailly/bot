@@ -1,65 +1,70 @@
 # BOT
 
-# C'est quoi ?
+# What is it ?
 
-BOT est une interface en ligne de commande permettant de lancer des commandes de nature diverse.
+It is a simple CLI for running commands.
 
-L'ajout de commande est possible en copiant simplement le code d'une commande dans le répertoire `commands`.
+To add a command, you just have to copy its code in the `commands` folder.
 
 # Getting started
 
-## Pré-requis
+## Prerequisite
 
-Installer Git : https://git-scm.com/downloads
+Install Git : https://git-scm.com/downloads
 
-Installer node : https://github.com/coreybutler/nvm-windows
+Install Node : https://github.com/coreybutler/nvm-windows
 
-Installer Yarn : https://yarnpkg.com/lang/en/docs/install/
+Install Yarn : https://yarnpkg.com/lang/en/docs/install/
 
-## Premier lancement
+## First run
 
-Clonez ce repository : `git clone git@github.com:acailly/bot.git`
+Clone this repo : `git clone git@github.com:acailly/bot.git`
 
-Allez dans le dossier `bot` : `cd bot`
+Got to folder `bot` : `cd bot`
 
-Exécutez yarn pour récupérer les dépendances : `yarn`
+Run Yarn to download dependencies : `yarn`
 
-Lancez le bot pour vérifier que ca marche : `yarn start`
+Run the bot to check it works : `yarn start`
 
-Une fois le bot démarré, tapez `help` pour afficher la liste des commandes disponibles.
+Once the bot started, type `help` to show available commands.
 
-Pour l'instant aucune commande n'est disponible.
+For the moment no command is available.
 
-## Ajout d'une commande
+## Add a command
 
-Créer un dossier `commands`
+Create the folder `commands`
 
-Allez dans ce dossier : `cd commands`
+Go in this folder : `cd commands`
 
-Récupérer le code de la commande `say` : `git clone git@github.com:acailly/bot-say.git`
+Clone the code of the `say` command : `git clone git@github.com:acailly/bot-say.git`
 
-Revenez dans le dossier parent : `cd ..`
+Go back in the parent folder : `cd ..`
 
-Lancez le bot pour vérifier que ca marche : `yarn start`
+Run the bot to check it works : `yarn start`
 
-Une fois le bot démarré, tapez `help` pour afficher la liste des commandes disponibles.
+Once the bot started, type `help` to show available commands.
 
-La commande `say` est apparue.
+The command `say` has appeared \o/.
 
-Tapez `say hello` pour que le bot réponde `hello`
+Type `say hello` and the bot say `hello`
 
 # Configuration
 
-Certaines commandes ont besoin d'être configurées.
+Some commands needs parameters.
 
-Pour cela, créer un fichier `config.yaml` à côté de ce README et reportez vous à la documentation de chaque commande pour le remplir.
+To set these parameters, create a file named `config.yaml` in the same folder of the `LICENSE` file.
 
-# Commandes
+See each command documentation to know what to write in this file.
 
-Les commandes disponibles sont :
+# Commands
 
-* `say` : fait dire quelque chose au bot (https://github.com/acailly/bot-say)
-* `epguides` : récupère les infos des séries TV (https://github.com/acailly/bot-epguides)
-* `github-trends` : liste les projets tendance sur github (https://github.com/acailly/bot-github-trends)
-* `remove-proxy` : supprime le proxy ! (https://github.com/acailly/bot-remove-proxy)
-* `schedule` : Planifie l'exécution de commandes (https://github.com/acailly/bot-schedule)
+Available commands are:
+
+* `say` : Make the bot say something (https://github.com/acailly/bot-say)
+* `epguides` : Ask the bot about your favorite TV show (https://github.com/acailly/bot-epguides)
+* `github-trends` : Ask the bot about trending projects on github (https://github.com/acailly/bot-github-trends)
+* `remove-proxy` : Remove the proxy! (https://github.com/acailly/bot-remove-proxy)
+* `schedule` : Schedule commands (https://github.com/acailly/bot-schedule)
+* `slack-links` : Retrieve links posted on slack in the channel you are in (https://github.com/acailly/bot-slack-links)
+
+If you create some interesting commands, tell me or make a PR ;-)
