@@ -18,7 +18,7 @@ Installer Yarn : https://yarnpkg.com/lang/en/docs/install/
 
 ## Premier lancement
 
-Clonez ce repository : `git clone git@bitbucket.org:acailly/bot.git`
+Clonez ce repository : `git clone git@github.com:acailly/bot.git`
 
 Allez dans le dossier `bot` : `cd bot`
 
@@ -36,7 +36,7 @@ Créer un dossier `commands`
 
 Allez dans ce dossier : `cd commands`
 
-Récupérer le code de la commande `say` : `git clone git@bitbucket.org:acailly/command-say.git`
+Récupérer le code de la commande `say` : `git clone git@github.com:acailly/bot-say.git`
 
 Revenez dans le dossier parent : `cd ..`
 
