@@ -72,5 +72,7 @@ Available commands are:
 * `slack-links` : Retrieve links posted on slack in the channel you are in (https://github.com/acailly/bot-slack-links)
 * `bitbucket` : List open pull requests on BitBucket (https://github.com/acailly/bot-bitbucket)
 * `jenkins` : Monitor Jenkins jobs (https://github.com/acailly/bot-jenkins)
+* `bitcoin` : Get bitcoin price (https://github.com/acailly/bot-bitcoin)
+* `pomodoro` : Start a pomodoro (https://github.com/acailly/bot-pomodoro)
 
-If you create some interesting commands, tell me or make a PR ;-)
+If you create some interesting command, please tell me or make a PR ;-)
