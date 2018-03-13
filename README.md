@@ -74,5 +74,6 @@ Available commands are:
 * `jenkins` : Monitor Jenkins jobs (https://github.com/acailly/bot-jenkins)
 * `bitcoin` : Get bitcoin price (https://github.com/acailly/bot-bitcoin)
 * `pomodoro` : Start a pomodoro (https://github.com/acailly/bot-pomodoro)
+* `default-browser` : Change the default browser (https://github.com/acailly/bot-default-browser)
 
 If you create some interesting command, please tell me or make a PR ;-)
