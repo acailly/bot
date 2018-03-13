@@ -18,7 +18,7 @@ Install Yarn : https://yarnpkg.com/lang/en/docs/install/
 
 ## First run
 
-Clone this repo : `git clone git@github.com:acailly/bot.git`
+Clone this repo : `git clone https://github.com/acailly/bot.git`
 
 Got to folder `bot` : `cd bot`
 
@@ -40,7 +40,7 @@ Create the folder `commands`
 
 Go in this folder : `cd commands`
 
-Clone the code of the `say` command : `git clone git@github.com:acailly/bot-say.git`
+Clone the code of the `say` command : `git clone https://github.com/acailly/bot-say.git`
 
 Go back in the parent folder : `cd ..`
 
