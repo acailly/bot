@@ -75,5 +75,6 @@ Available commands are:
 * `bitcoin` : Get bitcoin price (https://github.com/acailly/bot-bitcoin)
 * `pomodoro` : Start a pomodoro (https://github.com/acailly/bot-pomodoro)
 * `default-browser` : Change the default browser (https://github.com/acailly/bot-default-browser)
+* `p2pchat` : A simple P2P chat (https://github.com/acailly/bot-p2pchat)
 
 If you create some interesting command, please tell me or make a PR ;-)
