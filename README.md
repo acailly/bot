@@ -76,6 +76,7 @@ Available commands are:
 * `bot-remove-proxy` : Remove the proxy! (https://github.com/acailly/bot-remove-proxy)
 * `bot-say` : Make the bot say something (https://github.com/acailly/bot-say)
 * `bot-schedule` : Schedule commands (https://github.com/acailly/bot-schedule)
+* `bot-set-home` : Set the HOME environment variable (https://github.com/acailly/bot-set-home)
 * `bot-slack-links` : Retrieve links posted on slack in the channel you are in (https://github.com/acailly/bot-slack-links)
 
 If you create some interesting command, please tell me or make a PR ;-)
