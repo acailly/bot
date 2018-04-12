@@ -78,5 +78,6 @@ Available commands are:
 * `bot-schedule` : Schedule commands (https://github.com/acailly/bot-schedule)
 * `bot-set-home` : Set the HOME environment variable (https://github.com/acailly/bot-set-home)
 * `bot-slack-links` : Retrieve links posted on slack in the channel you are in (https://github.com/acailly/bot-slack-links)
+* `bot-exec` : Execute a command (https://github.com/acailly/bot-exec)
 
 If you create some interesting command, please tell me or make a PR ;-)
