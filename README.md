@@ -79,5 +79,6 @@ Available commands are:
 * `bot-set-home` : Set the HOME environment variable (https://github.com/acailly/bot-set-home)
 * `bot-slack-links` : Retrieve links posted on slack in the channel you are in (https://github.com/acailly/bot-slack-links)
 * `bot-exec` : Execute a command (https://github.com/acailly/bot-exec)
+* `bot-remote` : Run command on distant bot(s) (https://github.com/acailly/bot-remote)
 
 If you create some interesting command, please tell me or make a PR ;-)
