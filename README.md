@@ -81,5 +81,6 @@ Available commands are:
 - `bot-set-home` : Set the HOME environment variable (https://github.com/acailly/bot-set-home)
 - `bot-slack-links` : Retrieve links posted on slack in the channel you are in (https://github.com/acailly/bot-slack-links)
 - `bot-sncf` : Get info on SNCF trains (https://github.com/acailly/bot-sncf)
+- `bot-worldcup2018` : Display scores of soccer world cup 2018 (https://github.com/acailly/bot-worldcup2018)
 
 If you create some interesting command, please tell me or make a PR ;-)
