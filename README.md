@@ -84,6 +84,7 @@ Available commands are:
 - `bot-sncf` : Get info on SNCF trains (https://github.com/acailly/bot-sncf)
 - `bot-translate` : Translate text in another language (https://github.com/acailly/bot-translate)
 - `bot-weather` : Get the weather forecast (https://github.com/acailly/bot-weather)
+- `bot-wolfram` : Ask Wolfram Alpha (https://github.com/acailly/bot-wolfram)
 - `bot-worldcup2018` : Display scores of soccer world cup 2018 (https://github.com/acailly/bot-worldcup2018)
 
 If you create some interesting command, please tell me or make a PR ;-)
