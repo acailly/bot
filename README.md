@@ -71,6 +71,7 @@ Available commands are:
 - `bot-epguides` : Ask the bot about your favorite TV show (https://github.com/acailly/bot-epguides)
 - `bot-exec` : Execute a command (https://github.com/acailly/bot-exec)
 - `bot-github-trends` : Ask the bot about trending projects on github (https://github.com/acailly/bot-github-trends)
+- `bot-google-trends` : Explore Google trends (https://github.com/acailly/bot-google-trends)
 - `bot-jenkins` : Monitor Jenkins jobs (https://github.com/acailly/bot-jenkins)
 - `bot-p2pchat` : A simple P2P chat (https://github.com/acailly/bot-p2pchat)
 - `bot-pomodoro` : Start a pomodoro (https://github.com/acailly/bot-pomodoro)
