@@ -32,8 +32,7 @@ module.exports = function(vorpal) {
         const command = require(targetFolder + "/index.js");
         vorpal.use(command);
 
-        console.log(`Command was added in ${targetFolder}`);
-        callback();
+        callback(`Command was added in ${targetFolder}`);
       }
     });
 };
