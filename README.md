@@ -78,6 +78,7 @@ Available commands are:
 - `bot-pomodoro` : Start a pomodoro (https://github.com/acailly/bot-pomodoro)
 - `bot-remote` : Run command on distant bot(s) (https://github.com/acailly/bot-remote)
 - `bot-remove-proxy` : Remove the proxy! (https://github.com/acailly/bot-remove-proxy)
+- `bot-rfxcom` : Interact with 433Mhz with the RFXtrx433 ("RFXCom") (https://github.com/acailly/bot-rfxcom)
 - `bot-say` : Make the bot say something (https://github.com/acailly/bot-say)
 - `bot-schedule` : Schedule commands (https://github.com/acailly/bot-schedule)
 - `bot-set-home` : Set the HOME environment variable (https://github.com/acailly/bot-set-home)
