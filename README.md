@@ -86,6 +86,7 @@ Available commands are:
 - `bot-translate` : Translate text in another language (https://github.com/acailly/bot-translate)
 - `bot-twitter-to-rss` : Create a RSS feed from your Twitter home timeline (https://github.com/acailly/bot-twitter-to-rss)
 - `bot-weather` : Get the weather forecast (https://github.com/acailly/bot-weather)
+- `bot-windows-kill-service` : Kill a windows service (https://github.com/acailly/bot-windows-kill-service)
 - `bot-wolfram` : Ask Wolfram Alpha (https://github.com/acailly/bot-wolfram)
 - `bot-worldcup2018` : Display scores of soccer world cup 2018 (https://github.com/acailly/bot-worldcup2018)
 
