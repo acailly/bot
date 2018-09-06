@@ -84,6 +84,7 @@ Available commands are:
 - `bot-schedule` : Schedule commands (https://github.com/acailly/bot-schedule)
 - `bot-set-home` : Set the HOME environment variable (https://github.com/acailly/bot-set-home)
 - `bot-slack-links` : Retrieve links posted on slack in the channel you are in (https://github.com/acailly/bot-slack-links)
+- `bot-slack-messages` : Download from Slack all messages of the channels you're in (https://github.com/acailly/bot-slack-messages)
 - `bot-sncf` : Get info on SNCF trains (https://github.com/acailly/bot-sncf)
 - `bot-translate` : Translate text in another language (https://github.com/acailly/bot-translate)
 - `bot-twitter-to-rss` : Create a RSS feed from your Twitter home timeline (https://github.com/acailly/bot-twitter-to-rss)
